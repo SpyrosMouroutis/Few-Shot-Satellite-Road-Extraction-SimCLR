@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+raw_deepglobe/
+data/
+
+*.pt
+**/*.pt
+
+paper/Few_Shot_Satellite_Road_Extraction_SimCLR_TTA (CVPR Format).pdf
+
+.DS_Store
+Thumbs.db
+.vscode/
